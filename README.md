@@ -1,4 +1,4 @@
-<h2>AI/생성형AI</h2>
+<h2>AI & 생성형 AI</h2>
 
 <h3>250312</h3>
 ChatGPT를 이용해 suno, inVideo, Gamma를 이용해 음악, ppt, 영상 만들기<br>
